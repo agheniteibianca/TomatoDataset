@@ -1,6 +1,6 @@
 <annotation>
-  <folder>tomate</folder>
-  <filename>tomate_barroselas_20200806_0297.jpg</filename>
+  <folder>tomates</folder>
+  <filename>tomates_2020-08-06-11-35-15_side_0068.jpg</filename>
   <source>
     <database>Unknown</database>
     <annotation>Unknown</annotation>
@@ -16,90 +16,120 @@
     <name>tomato</name>
     <occluded>1</occluded>
     <bndbox>
-      <xmin>182.09</xmin>
-      <ymin>190.8</ymin>
-      <xmax>219.27</xmax>
-      <ymax>231.4</ymax>
-    </bndbox>
-  </object>
-  <object>
-    <name>tomato</name>
-    <occluded>1</occluded>
-    <bndbox>
-      <xmin>4.73</xmin>
-      <ymin>579.71</ymin>
-      <xmax>87.54</xmax>
-      <ymax>663.8</ymax>
-    </bndbox>
-  </object>
-  <object>
-    <name>tomato</name>
-    <occluded>1</occluded>
-    <bndbox>
-      <xmin>158.79</xmin>
-      <ymin>17.34</ymin>
-      <xmax>193.64</xmax>
-      <ymax>61.69</ymax>
+      <xmin>699.97</xmin>
+      <ymin>196.28</ymin>
+      <xmax>724.53</xmax>
+      <ymax>221.29</ymax>
     </bndbox>
   </object>
   <object>
     <name>tomato</name>
     <occluded>0</occluded>
     <bndbox>
-      <xmin>121.67</xmin>
-      <ymin>1.58</ymin>
-      <xmax>167.69</xmax>
-      <ymax>51.18</ymax>
+      <xmin>1201.5</xmin>
+      <ymin>0.0</ymin>
+      <xmax>1253.75</xmax>
+      <ymax>38.74</ymax>
     </bndbox>
   </object>
   <object>
     <name>tomato</name>
     <occluded>0</occluded>
     <bndbox>
-      <xmin>142.4</xmin>
-      <ymin>166.18</ymin>
-      <xmax>194.39</xmax>
-      <ymax>219.84</ymax>
+      <xmin>993.78</xmin>
+      <ymin>39.78</ymin>
+      <xmax>1047.11</xmax>
+      <ymax>78.67</ymax>
     </bndbox>
   </object>
   <object>
     <name>tomato</name>
     <occluded>1</occluded>
     <bndbox>
-      <xmin>109.76</xmin>
-      <ymin>140.74</ymin>
-      <xmax>168.39</xmax>
-      <ymax>212.09</ymax>
+      <xmin>717.19</xmin>
+      <ymin>192.49</ymin>
+      <xmax>739.69</xmax>
+      <ymax>216.93</ymax>
     </bndbox>
   </object>
   <object>
     <name>tomato</name>
     <occluded>0</occluded>
     <bndbox>
-      <xmin>116.4</xmin>
-      <ymin>344.84</ymin>
-      <xmax>181.12</xmax>
-      <ymax>410.11</ymax>
+      <xmin>1183.78</xmin>
+      <ymin>8.44</ymin>
+      <xmax>1221.56</xmax>
+      <ymax>57.33</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>tomato</name>
+    <occluded>0</occluded>
+    <bndbox>
+      <xmin>1004.89</xmin>
+      <ymin>2.89</ymin>
+      <xmax>1051.56</xmax>
+      <ymax>50.67</ymax>
     </bndbox>
   </object>
   <object>
     <name>tomato</name>
     <occluded>1</occluded>
     <bndbox>
-      <xmin>119.72</xmin>
-      <ymin>386.88</ymin>
-      <xmax>187.2</xmax>
-      <ymax>460.44</ymax>
+      <xmin>316.0</xmin>
+      <ymin>132.89</ymin>
+      <xmax>456.0</xmax>
+      <ymax>302.89</ymax>
     </bndbox>
   </object>
   <object>
     <name>tomato</name>
     <occluded>1</occluded>
     <bndbox>
-      <xmin>63.62</xmin>
-      <ymin>613.6</ymin>
-      <xmax>125.84</xmax>
-      <ymax>697.03</ymax>
+      <xmin>902.78</xmin>
+      <ymin>496.56</ymin>
+      <xmax>990.56</xmax>
+      <ymax>595.44</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>tomato</name>
+    <occluded>1</occluded>
+    <bndbox>
+      <xmin>1208.65</xmin>
+      <ymin>22.66</ymin>
+      <xmax>1247.94</xmax>
+      <ymax>66.42</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>tomato</name>
+    <occluded>0</occluded>
+    <bndbox>
+      <xmin>206.67</xmin>
+      <ymin>236.67</ymin>
+      <xmax>297.78</xmax>
+      <ymax>342.22</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>tomato</name>
+    <occluded>0</occluded>
+    <bndbox>
+      <xmin>263.33</xmin>
+      <ymin>214.44</ymin>
+      <xmax>371.11</xmax>
+      <ymax>356.67</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>tomato</name>
+    <occluded>0</occluded>
+    <bndbox>
+      <xmin>385.56</xmin>
+      <ymin>94.44</ymin>
+      <xmax>538.89</xmax>
+      <ymax>276.67</ymax>
     </bndbox>
   </object>
 </annotation>

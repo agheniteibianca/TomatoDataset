@@ -1,6 +1,6 @@
 <annotation>
   <folder>tomate</folder>
-  <filename>tomate_barroselas_20200806_0294.jpg</filename>
+  <filename>tomate_barroselas_20200806_0295.jpg</filename>
   <source>
     <database>Unknown</database>
     <annotation>Unknown</annotation>
@@ -16,110 +16,60 @@
     <name>tomato</name>
     <occluded>0</occluded>
     <bndbox>
-      <xmin>717.03</xmin>
-      <ymin>102.49</ymin>
-      <xmax>784.47</xmax>
-      <ymax>167.32</ymax>
+      <xmin>360.9</xmin>
+      <ymin>123.2</ymin>
+      <xmax>426.18</xmax>
+      <ymax>202.56</ymax>
     </bndbox>
   </object>
   <object>
     <name>tomato</name>
     <occluded>1</occluded>
     <bndbox>
-      <xmin>358.68</xmin>
-      <ymin>77.39</ymin>
-      <xmax>395.77</xmax>
-      <ymax>117.24</ymax>
-    </bndbox>
-  </object>
-  <object>
-    <name>tomato</name>
-    <occluded>1</occluded>
-    <bndbox>
-      <xmin>830.51</xmin>
-      <ymin>350.95</ymin>
-      <xmax>888.89</xmax>
-      <ymax>429.04</ymax>
-    </bndbox>
-  </object>
-  <object>
-    <name>tomato</name>
-    <occluded>1</occluded>
-    <bndbox>
-      <xmin>715.66</xmin>
-      <ymin>632.52</ymin>
-      <xmax>814.75</xmax>
+      <xmin>306.9</xmin>
+      <ymin>642.2</ymin>
+      <xmax>383.96</xmax>
       <ymax>720.0</ymax>
     </bndbox>
   </object>
   <object>
     <name>tomato</name>
-    <occluded>0</occluded>
+    <occluded>1</occluded>
     <bndbox>
-      <xmin>151.35</xmin>
-      <ymin>287.06</ymin>
-      <xmax>196.77</xmax>
-      <ymax>333.86</ymax>
+      <xmin>377.08</xmin>
+      <ymin>344.73</ymin>
+      <xmax>441.76</xmax>
+      <ymax>421.94</ymax>
     </bndbox>
   </object>
   <object>
     <name>tomato</name>
     <occluded>1</occluded>
     <bndbox>
-      <xmin>174.75</xmin>
-      <ymin>307.57</ymin>
-      <xmax>239.44</xmax>
-      <ymax>395.79</ymax>
+      <xmin>356.15</xmin>
+      <ymin>378.15</ymin>
+      <xmax>444.45</xmax>
+      <ymax>482.21</ymax>
     </bndbox>
   </object>
   <object>
     <name>tomato</name>
     <occluded>1</occluded>
     <bndbox>
-      <xmin>235.3</xmin>
-      <ymin>282.8</ymin>
-      <xmax>304.13</xmax>
-      <ymax>379.28</ymax>
+      <xmin>235.54</xmin>
+      <ymin>603.22</ymin>
+      <xmax>331.32</xmax>
+      <ymax>709.26</ymax>
     </bndbox>
   </object>
   <object>
     <name>tomato</name>
     <occluded>0</occluded>
     <bndbox>
-      <xmin>840.9</xmin>
-      <ymin>157.55</ymin>
-      <xmax>908.34</xmax>
-      <ymax>223.75</ymax>
-    </bndbox>
-  </object>
-  <object>
-    <name>tomato</name>
-    <occluded>0</occluded>
-    <bndbox>
-      <xmin>795.48</xmin>
-      <ymin>113.51</ymin>
-      <xmax>854.67</xmax>
-      <ymax>200.35</ymax>
-    </bndbox>
-  </object>
-  <object>
-    <name>tomato</name>
-    <occluded>1</occluded>
-    <bndbox>
-      <xmin>795.48</xmin>
-      <ymin>660.05</ymin>
-      <xmax>869.81</xmax>
-      <ymax>720.0</ymax>
-    </bndbox>
-  </object>
-  <object>
-    <name>tomato</name>
-    <occluded>0</occluded>
-    <bndbox>
-      <xmin>203.08</xmin>
-      <ymin>275.91</ymin>
-      <xmax>262.84</xmax>
-      <ymax>344.73</ymax>
+      <xmin>404.5</xmin>
+      <ymin>151.19</ymin>
+      <xmax>462.52</xmax>
+      <ymax>221.0</ymax>
     </bndbox>
   </object>
 </annotation>
